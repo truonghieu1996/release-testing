@@ -1,2 +1,2 @@
 # release-testing
-Main testing for main branch.
+It is for the release v1.0
